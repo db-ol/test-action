@@ -4,6 +4,8 @@ using namespace std;
 int main() {
     int n, reversedNumber = 0, remainder;
 
+    int a, b, c;
+
     cout << "Enter an integer: ";
     cin >> n;
 
